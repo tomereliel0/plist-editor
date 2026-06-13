@@ -1,7 +1,7 @@
 {
   "name": "ui-plist-editor",
   "publisher": "TomerEliel",
-  "displayName": "plist Editor",
+  "displayName": "UI plist Editor",
   "description": "Simple plist UI editor.",
   "version": "0.0.1",
   "engines": {
@@ -25,7 +25,7 @@
     "customEditors": [
       {
         "viewType": "plist-editor.plistEditor",
-        "displayName": "simple UI plist Editor",
+        "displayName": "Plist Editor",
         "selector": [
           {
             "filenamePattern": "*.plist"
