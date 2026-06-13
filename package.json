@@ -1,5 +1,6 @@
 {
   "name": "plist-editor",
+  "publisher": "TomerEliel",
   "displayName": "plist Editor",
   "description": "Simple plist UI editor.",
   "version": "0.0.1",
@@ -64,5 +65,9 @@
     "bplist-creator": "^0.1.1",
     "bplist-parser": "^0.3.2",
     "plist": "^5.0.0"
-  }
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/tomereliel0/plist-editor.git"
+}
 }
