@@ -25,7 +25,7 @@
     "customEditors": [
       {
         "viewType": "plist-editor.plistEditor",
-        "displayName": "UI plist Editor",
+        "displayName": "simple UI plist Editor",
         "selector": [
           {
             "filenamePattern": "*.plist"
